@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\File Sorter",
-    "\\File Sorter\\build"
+    "\\File Sorter\\src",
+    "\\File Sorter\\src\\app"
   ],
   "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
