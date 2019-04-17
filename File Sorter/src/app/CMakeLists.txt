@@ -6,7 +6,7 @@ project(MainApp)
 file(GLOB APP_SOURCES *.cpp)
 
 #	export the binary results to bin folder
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+#set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 #	create the executable binary MainApp.exe
 add_executable(${PROJECT_NAME}  ${APP_SOURCES})

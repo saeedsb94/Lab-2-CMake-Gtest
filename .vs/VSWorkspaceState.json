@@ -3,8 +3,9 @@
     "",
     "\\File Sorter",
     "\\File Sorter\\src",
-    "\\File Sorter\\src\\app"
+    "\\File Sorter\\src\\tests",
+    "\\File Sorter\\src\\tests\\docs"
   ],
-  "SelectedNode": "\\CMakeLists.txt",
+  "SelectedNode": "\\File Sorter\\src\\tests\\docs\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

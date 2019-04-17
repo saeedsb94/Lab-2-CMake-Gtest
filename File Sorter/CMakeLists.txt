@@ -1,5 +1,5 @@
 ﻿cmake_minimum_required (VERSION 3.1)
 
-add_subdirectory(src)
+set(CMAKE_BINARY_DIR "${CMAKE_SOURCE_DIR}/build")
 
-add_subdirectory(docs)
+add_subdirectory(src)
