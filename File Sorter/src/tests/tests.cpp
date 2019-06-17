@@ -26,7 +26,7 @@ TEST(SortingTest, negativeInput) {
 	EXPECT_TRUE(TestFile("docs/testCase4.txt"));
 }
 
-/*	Case 0:	Random sequence	*/
+/*	Case 5:	Random sequence	*/
 
 TEST(SortingTest, RandomInput) {
 
